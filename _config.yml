@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "README.md", title: "CV"}
-  - {file: "the journey.md", title: "The Journey so far..."}
+  - {file: "thejourney.md", title: "The Journey so far..."}
   - {title: "Nederlands Taal"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
