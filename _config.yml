@@ -1,4 +1,4 @@
-title: "Daniel Griffiths Software Engineer (Junior)"
+title: "Daniel Griffiths"
 author: "Daniel Griffiths"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Front Page"}
+  - {file: "index.html", title: "Home Page"}
   - {file: "README.md", title: "CV"}
   - {title: "The Journey so far..."}
   - {title: "Nederlands Taal"}
