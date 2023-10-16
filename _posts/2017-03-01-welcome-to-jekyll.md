@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "Guide to the site"
 layout: post
 ---
 
