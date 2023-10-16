@@ -1,9 +1,15 @@
 ---
-title: "Guide to the site"
+title: "First time visitor?"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This site is dedicated to documenting my pathway towards becoming a Software Engineer. 
+
+Aside from making my CV available to prospecitve employers, the goal is to capture short blog posts which document my learning during the online courses, MOOCs and tutorials on the subject of software engineering.  I like this approach as it offers a physical way of holding myself to account that 
+
+You will find blohg posts on the software topics and courses i have studied, so dive in.  
+
+(You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
