@@ -1,6 +1,6 @@
 ---
 title: "The journey so far"
-permalink: "/about/"
+permalink: "/journey/"
 layout: page
 ---
 
