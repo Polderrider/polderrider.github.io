@@ -22,7 +22,7 @@ IJmuiden, NL
     - Python / Bootstrap / Flask
     - Database SQLite / mySQL
     - Functional languages Racket / ML
-- Developed stock price tracker web app ([link to source code])(https://github.com/code50/51285379/tree/main/finance) connected to live API offering features to buy / sell shares, report 'Stock Trade History', add funds to account. App supported by username/password log-in functionality.  Developed front end in Python / Boostrap and backend using database management tool SQLite. 
+- Developed stock price tracker web app ([source code])(https://github.com/code50/51285379/tree/main/finance) connected to live API offering features to buy / sell shares, report 'Stock Trade History', add funds to account. App supported by username/password log-in functionality.  Developed front end in Python / Boostrap and backend using database management tool SQLite. 
 - Continuing second year of studying Computer Science Curriculum alongside full time employment to develop knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
   
   
