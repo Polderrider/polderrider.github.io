@@ -17,11 +17,15 @@ Tata Steel
 IJmuiden, NL
 
 + Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Supported developers with designing and implementing program solutions to control coil movements within the Warehouse Management System.
-+ Programming languages [C / C++ / C#]; [Python / Bootstrap / Flask] ; [SQL / mySQL]; [Racket / ML]
++ Programming languages
+        + C languages [C / C++ / C#]
+        + Python / Bootstrap / Flask
+        + Database [SQLite / mySQL]
+        + Functional languages [Racket / ML]
 + Developed web based API CRUD app offering username / password access to stock price tracker
 + In second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 
-
+  
 ### Automotive Insight Manager							
 2016 - 2022  
 Tata Steel  
