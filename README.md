@@ -8,18 +8,15 @@ layout: page
 
 Software Engineer with 1 year experience in developing programs for desktop, web and command line deployment.  Working with functional programming (languages: Bracket, ML) and Object Oriented Programming (languages: Python, C#) frameworks has taught an appreciation and understanding for writing clear and readable code.  Equally comfortable as a self-starter or team member, my personal skills to engage and motivate colleagues delvers strong performances in agile teams under pressured sprint schedules and delivering solo projects to deadline.
 
-## Features
+## PROFESSIONAL EXPERIENCE
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+Junior Software Engineer								                                                                                                                               2022 – present
+                                                                                                                                             Tata Steel										IJmuiden, NL
+•	Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Worked with developers to design and implement program solutions to control coil movements within the Warehouse Management System.
+•	Programming language experience C / C++ / C#; Python / Bootstrap / Flask ; SQL / mySQL; Racket / ML
+•	Developed web based API CRUD app offering username / password access to stock price tracker
+•	In second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
+
 
 ## Based on
 
