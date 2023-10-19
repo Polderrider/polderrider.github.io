@@ -42,8 +42,10 @@ IJmuiden, NL
 ***
 
 ### Automotive Insight Manager							
-2016 - 2022  
-Tata Steel  
+
+##### Tata Steel  
+
+2016 - 2022   
 IJmuiden, NL  
 + Guided TSE investment decisions as team member providing research and insights about steel demand, customers and 10 year market outlooks  for projects such as E-motor steel production, EV battery steel and Low Carbon Steel price mechanism
 + Briefed senior Sales and Marketing Leadership in monthly Global Auto Market meetings discussing customer and market developments, forecasting EU vehicle production and future steel sales
@@ -52,8 +54,10 @@ IJmuiden, NL
 
 
 ### Automotive Account Manager              						
+
+##### Tata Steel  
+
 2012 - 2016  
-Tata Steel  
 IJmuiden, NL
 + Responsible for managing supply and price negotiation of 100 kilotonnes of automotive steel to German and Central Europe automotive customers 
 + Managed multi-discipline Account Team across a matrix organisation prioritising customer satisfaction by promoting a right-first-time approach with team initiative encouraged to drive continuous improvement
