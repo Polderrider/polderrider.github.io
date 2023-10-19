@@ -26,7 +26,14 @@ IJmuiden, NL
 - Developed web based API CRUD app offering username / password access to stock price tracker
 - In second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 
-## COMPUTER SCIENCE EDUCATION
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+
+## EDUCATION (COMPUTER SCIENCE)
 ---
 + [cs50x](https://cs50.harvard.edu/x/2023/) course / [cs50-Python](https://cs50.harvard.edu/python/2022/) course								Oct 22 - ongoing
 Harvard University										Remote
