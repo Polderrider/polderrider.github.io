@@ -51,52 +51,37 @@ Freelance			 							Bandung, IND
 Japanese Ministry of Education							Kyushu, JPN
 •	Appointed by Ministry of Education to design and teach English lessons at a Japanese High School
 
-## Config
+## EDUCATION
+______________________________________________________________________________________________________________________________________________________________
 
-Your `_config.yml` could for example look like this:
+•	‘cs50x’ / ‘cs50-Python’								Oct 22 - ongoing
+Harvard University										Remote
+•	Computer Science Curriculum						            Oct 22 - ongoing
+OSSU (Open Source Society University)							Remote
+•	MSc Accounting and Management (Post Graduate Diploma)				2006 – 2007
+University of Southampton							Southampton, UK
+•	BSc Management Science								1997 – 2001
+University of Wales, Swansea, UK
+•	A-level (Maths, Physics, Chemistry)							1995 – 1997
+Cowes High School, Isle of Wight, UK
+•	GCSE (10)										1991 –  1995
+Ryde School, Isle of Wight, UK
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
 
-# Layout
+## Languages
+______________________________________________________________________________________________________________________________________________________________
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+•	Dutch intermediate (currently studying B1 -> B2) 						
+•	Japanese intermediate			
 
-# Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+## INTERESTS & HOBBIES
+______________________________________________________________________________________________________________________________________________________________
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+•	Trainer for under-15 football team and referee
+•	Playing and teaching my sons guitar 
+•	Sport (running, cycling, swimming) 
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
 
 ## Screenshots
 
