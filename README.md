@@ -31,7 +31,11 @@ IJmuiden, NL
 Harvard University										Remote
 + Computer Science Curriculum						            Oct 22 - ongoing
 OSSU (Open Source Society University)							Remote
-  
+
+
+# OTHER PROFESSIONAL EXPERIENCE
+***
+
 ### Automotive Insight Manager							
 2016 - 2022  
 Tata Steel  
@@ -42,8 +46,6 @@ IJmuiden, NL
 + Managed two reporting lines (Director of Strategy, Head of Marketing) to produce market sizing, customer insight and competitor market share growth reports on an ad-hoc basis (e.g. Hot Dipped Galv Full Finish market report)
 
 
-# OTHER PROFESSIONAL EXPERIENCE
-***
 ### Automotive Account Manager              						
 2012 - 2016  
 Tata Steel  
