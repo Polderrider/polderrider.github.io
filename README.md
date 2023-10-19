@@ -5,11 +5,12 @@ layout: page
 ---
 
 # SUMMARY
-______________________________________________________________________________________________________________________________________________________________
+---
+
 Software Engineer with 1 year experience in developing programs for desktop, web and command line deployment.  Working with functional programming (languages: Bracket, ML) and Object Oriented Programming (languages: Python, C#) frameworks has taught an appreciation and understanding for writing clear and readable code.  Equally comfortable as a self-starter or team member, my personal skills to engage and motivate colleagues delvers strong performances in agile teams under pressured sprint schedules and delivering solo projects to deadline.
 
 # PROFESSIONAL EXPERIENCE
-______________________________________________________________________________________________________________________________________________________________
+***
 
 ### Junior Software Engineer
 2022 – present  
