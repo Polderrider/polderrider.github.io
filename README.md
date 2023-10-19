@@ -29,12 +29,12 @@ IJmuiden, NL
 ## EDUCATION (COMPUTER SCIENCE)
 ---
 + [cs50-Python](https://cs50.harvard.edu/python/2022/) course							                          	September 2023 - ongoing  
-  Harvard University										Remote
+  Harvard University										Remote  
 + [OSSU](https://github.com/ossu/computer-science) Computer Science Curriculum						            January 2023 - ongoing  
-  Open Source Society University							Remote
-+ [cs50x](https://cs50.harvard.edu/x/2023/) course                                                    October 2022 - March 2023  
-  Harvard University										Remote
+  Open Source Society University							Remote  
 + [Python for Everybody](https://www.py4e.com/)                                                       January 2023 - Feburary 2023  
++ [cs50x](https://cs50.harvard.edu/x/2023/) course                                                    October 2022 - March 2023  
+  Harvard University										Remote  
                                                                                         
 
 
