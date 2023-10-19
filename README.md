@@ -11,7 +11,18 @@ Software Engineer with 1 year experience in developing programs for desktop, web
 # PROFESSIONAL EXPERIENCE
 
 ______________________________________________________________________________________________________________________________________________________________
-
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
 |Junior Software Engineer|2022 – present|
 |---------------------------|---------------------------|
 |Tata Steel|IJmuiden, NL|
