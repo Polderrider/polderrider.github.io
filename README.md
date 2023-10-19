@@ -62,7 +62,7 @@ Japanese Ministry of Education							Kyushu, JPN
 
 # EDUCATION
 ______________________________________________________________________________________________________________________________________________________________
-•	‘cs50x’ / ‘cs50-Python’								Oct 22 - ongoing
++ cs50x course / cs50-Python course								Oct 22 - ongoing
 Harvard University										Remote
 + Computer Science Curriculum						            Oct 22 - ongoing
 OSSU (Open Source Society University)							Remote
