@@ -9,7 +9,6 @@ ________________________________________________________________________________
 Software Engineer with 1 year experience in developing programs for desktop, web and command line deployment.  Working with functional programming (languages: Bracket, ML) and Object Oriented Programming (languages: Python, C#) frameworks has taught an appreciation and understanding for writing clear and readable code.  Equally comfortable as a self-starter or team member, my personal skills to engage and motivate colleagues delvers strong performances in agile teams under pressured sprint schedules and delivering solo projects to deadline.
 
 # PROFESSIONAL EXPERIENCE
-
 ______________________________________________________________________________________________________________________________________________________________
 
 |Junior Software Engineer|2022 – present|
@@ -17,21 +16,14 @@ ________________________________________________________________________________
 |Tata Steel|IJmuiden, NL|
 
 
-+ Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Worked with developers to design and implement program solutions to control coil movements within the Warehouse Management System.
++ Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Supported developers with designing and implementing program solutions to control coil movements within the Warehouse Management System.
 + Programming languages [C / C++ / C#]; [Python / Bootstrap / Flask] ; [SQL / mySQL]; [Racket / ML]
 + Developed web based API CRUD app offering username / password access to stock price tracker
 + In second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
+### Automotive Insight Manager							
+Tata Steel										IJmuiden, NL  2016 - 2022
 
-
-### Automotive Insight Manager							2016 - 2022
-Tata Steel										IJmuiden, NL
 + Guided TSE investment decisions as team member providing research and insights about steel demand, customers and 10 year market outlooks  for projects such as E-motor steel production, EV battery steel and Low Carbon Steel price mechanism
 + Briefed senior Sales and Marketing Leadership in monthly Global Auto Market meetings discussing customer and market developments, forecasting EU vehicle production and future steel sales
 + Improved Global Account Manager’s share-of-wallet knowledge and Annual Plan steel sales forecasting by automating steel demand dataset (in Powerpivot) to include individual car models’ steel demand per steel product
