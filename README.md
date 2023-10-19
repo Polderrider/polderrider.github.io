@@ -11,8 +11,8 @@ Software Engineer with 1 year experience in developing programs for desktop, web
 # PROFESSIONAL EXPERIENCE
 
 ______________________________________________________________________________________________________________________________________________________________
-### Junior Software Engineer																	 -:2022 – present
-Tata Steel										IJmuiden, NL
+|### Junior Software Engineer| 2022 – present|
+|Tata Steel									|IJmuiden, NL|
 + Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Worked with developers to design and implement program solutions to control coil movements within the Warehouse Management System.
 + Programming languages [C / C++ / C#]; [Python / Bootstrap / Flask] ; [SQL / mySQL]; [Racket / ML]
 + Developed web based API CRUD app offering username / password access to stock price tracker
