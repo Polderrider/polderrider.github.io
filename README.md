@@ -7,11 +7,12 @@ layout: page
 ## SUMMARY
 ---  
 Software Engineer with 1 year experience in developing programs for desktop, web and command line deployment.  Working with functional programming (languages: Bracket, ML) and Object Oriented Programming (languages: Python, C#) frameworks has taught an appreciation and understanding for writing clear and readable code.  Equally comfortable as a self-starter or team member, my personal skills to engage and motivate colleagues delvers strong performances in agile teams under pressured sprint schedules and delivering solo projects to deadline.  
+Mention Github repo with link...
   
     
 ## PROFESSIONAL EXPERIENCE
 ***
-#### Junior Software Engineer
+### Junior Software Engineer
 2022 – present  
 Tata Steel  
 IJmuiden, NL
@@ -25,7 +26,7 @@ IJmuiden, NL
 - Developed web based API CRUD app offering username / password access to stock price tracker
 - In second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 
-# COMPUTER SCIENCE EDUCATION
+## COMPUTER SCIENCE EDUCATION
 ---
 + cs50x course / cs50-Python course								Oct 22 - ongoing
 Harvard University										Remote
@@ -33,7 +34,7 @@ Harvard University										Remote
 OSSU (Open Source Society University)							Remote
 
 
-# OTHER PROFESSIONAL EXPERIENCE
+## OTHER PROFESSIONAL EXPERIENCE
 ***
 
 ### Automotive Insight Manager							
@@ -93,7 +94,7 @@ Kyushu, JPN
 + Appointed by Ministry of Education to design and teach English lessons at a Japanese High School
 
 
-# EDUCATION
+## EDUCATION
 ---
 + cs50x course / cs50-Python course								Oct 22 - ongoing
 Harvard University										Remote
@@ -109,13 +110,13 @@ Cowes High School, Isle of Wight, UK
 Ryde School, Isle of Wight, UK
 
 
-# LANGUAGES
+## LANGUAGES
 ---
 + Dutch intermediate (currently studying B1 -> B2) 						
 + Japanese intermediate			
 
 
-# INTERESTS & HOBBIES
+## INTERESTS & HOBBIES
 ---
 + Trainer for under-15 football team and referee
 + Playing and teaching my sons guitar 
