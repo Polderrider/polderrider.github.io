@@ -22,36 +22,50 @@ ________________________________________________________________________________
 + In second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 
 ### Automotive Insight Manager							
-Tata Steel										IJmuiden, NL  2016 - 2022
+2016 - 2022
+Tata Steel
+IJmuiden, NL  
 
 + Guided TSE investment decisions as team member providing research and insights about steel demand, customers and 10 year market outlooks  for projects such as E-motor steel production, EV battery steel and Low Carbon Steel price mechanism
 + Briefed senior Sales and Marketing Leadership in monthly Global Auto Market meetings discussing customer and market developments, forecasting EU vehicle production and future steel sales
 + Improved Global Account Manager’s share-of-wallet knowledge and Annual Plan steel sales forecasting by automating steel demand dataset (in Powerpivot) to include individual car models’ steel demand per steel product
 + Managed two reporting lines (Director of Strategy, Head of Marketing) to produce market sizing, customer insight and competitor market share growth reports on an ad-hoc basis (e.g. Hot Dipped Galv Full Finish market report)
 
-### Automotive Account Manager              						2012 - 2016
-Tata Steel										IJmuiden, NL
+### Automotive Account Manager              						
+2012 - 2016
+Tata Steel										
+IJmuiden, NL
 + Responsible for managing supply and price negotiation of 100 kilotonnes of automotive steel to German and Central Europe automotive customers 
 + Managed multi-discipline Account Team across a matrix organisation prioritising customer satisfaction by promoting a right-first-time approach with team initiative encouraged to drive continuous improvement
 
-### Commercial Accountant								2010 – 2012
-Tata Steel										Cardiff, UK
+### Commercial Accountant								
+2010 – 2012
+Tata Steel
+Cardiff, UK
 + Reported to Financial Controller on automotive customers financial performance  
 + Researched and created KPI reports for briefing senior finance and automotive account managers
 
-### Business Analyst									2007 – 2009
-Tata Steel										Cardiff, UK
+### Business Analyst									
+2007 – 2009
+Tata Steel										
+Cardiff, UK
 
-### Masters IELTs Tutor								2006 – 2007
-University of Southampton							Southampton, UK
+### Masters IELTs Tutor								
+2006 – 2007
+University of Southampton							
+Southampton, UK
 + Responsible for designing and teaching lessons to international students with the aim of preparing  students language ability to meet the demands of Masters degree study
 
-### English Tutor									2004 – 2005
-Freelance			 							Bandung, IND
+### English Tutor									
+2004 – 2005
+Freelance			 							
+Bandung, IND
 + Negotiated teaching contracts with public organisations (Universities, government departments) to design and teach English language seminars and syllabuses
 
-### English Tutor									2001 – 2004
-Japanese Ministry of Education							Kyushu, JPN
+### English Tutor									
+2001 – 2004
+Japanese Ministry of Education							
+Kyushu, JPN
 + Appointed by Ministry of Education to design and teach English lessons at a Japanese High School
 
 
