@@ -18,20 +18,14 @@ Tata Steel
 IJmuiden, NL
 
 - Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Supported developers with designing and implementing program solutions to control coil movements within the Warehouse Management System.
-- Programming languages
+- Programming languages experience
     - C languages C / C++ / C#
     - Python / Bootstrap / Flask
     - Database SQLite / mySQL
     - Functional languages Racket / ML
-- Developed web based API CRUD app offering username / password access to stock price tracker
+- Developed stock price tracker website connected to live API offering features to buy / sell shares, report 'Stock Trade Hisotry', add funds to account supported by username/password log-in functionality.  Developed experience in Python / Boostrap front end development and Backend database management using SQLite 
 - Continuing second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 
-- First item
-- Second item
-- Third item
-    - Indented item
-    - Indented item
-- Fourth item
 
 ## EDUCATION (COMPUTER SCIENCE)
 ---
@@ -39,6 +33,8 @@ IJmuiden, NL
 Harvard University										Remote
 + [OSSU](https://github.com/ossu/computer-science) Computer Science Curriculum						            Oct 22 - ongoing
   Open Source Society University							Remote
++ [Python for Everybody](https://www.py4e.com/)
+  January 2023 - Feburary 2023
 
 
 ## OTHER PROFESSIONAL EXPERIENCE
