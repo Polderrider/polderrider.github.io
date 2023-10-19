@@ -84,7 +84,7 @@ Kyushu, JPN
 
 
 # EDUCATION
-
+---
 + cs50x course / cs50-Python course								Oct 22 - ongoing
 Harvard University										Remote
 + Computer Science Curriculum						            Oct 22 - ongoing
@@ -100,13 +100,13 @@ Ryde School, Isle of Wight, UK
 
 
 # LANGUAGES
-
+---
 + Dutch intermediate (currently studying B1 -> B2) 						
 + Japanese intermediate			
 
 
 # INTERESTS & HOBBIES
-
+---
 + Trainer for under-15 football team and referee
 + Playing and teaching my sons guitar 
 + Sport (running, cycling, swimming) 
