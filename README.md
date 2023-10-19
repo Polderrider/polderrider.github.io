@@ -4,7 +4,6 @@ permalink: "/CV/"
 layout: page
 ---
 
-## SUMMARY
 ---  
 Software Engineer with 1 year experience in developing programs for desktop, web and command line deployment.  Strong foundation in functional programming languages (Bracket, ML) and Object Oriented Programming languages (Python, C#) has shaped expertise in the fundamentals of programming and skill in writing clear and understandable code.  Equally comfortable as a self-starter or team member, my strong personal skills engage and motivate colleagues ensuring I performan well in Agile Teams working to sprint schedules or delivering solo projects to deadline.  
 Mention Github repo with link...
