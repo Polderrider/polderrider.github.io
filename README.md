@@ -10,7 +10,7 @@ Software Engineer with 1 year experience in developing programs for desktop, web
 
 ## PROFESSIONAL EXPERIENCE
 
-Junior Software Engineer								                                                                                                                               2022 – present
+# Junior Software Engineer								                                                                                                                               2022 – present
                                                                                                                                              Tata Steel										IJmuiden, NL
 •	Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Worked with developers to design and implement program solutions to control coil movements within the Warehouse Management System.
 •	Programming language experience C / C++ / C#; Python / Bootstrap / Flask ; SQL / mySQL; Racket / ML
@@ -18,27 +18,22 @@ Junior Software Engineer								                                                
 •	In second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 
 
-## Based on
+### Automotive Insight Manager
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+							2016 - 2022
+Tata Steel										IJmuiden, NL
+•	Guided TSE investment decisions as team member providing research and insights about steel demand, customers and 10 year market outlooks  for projects such as E-motor steel production, EV battery steel and Low Carbon Steel price mechanism
+•	Briefed senior Sales and Marketing Leadership in monthly Global Auto Market meetings discussing customer and market developments, forecasting EU vehicle production and future steel sales
+•	Improved Global Account Manager’s share-of-wallet knowledge and Annual Plan steel sales forecasting by automating steel demand dataset (in Powerpivot) to include individual car models’ steel demand per steel product
+•	Managed two reporting lines (Director of Strategy, Head of Marketing) to produce market sizing, customer insight and competitor market share growth reports on an ad-hoc basis (e.g. Hot Dipped Galv Full Finish market report)
 
-## Installation (jekyll-remote-theme method)
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+#### Automotive Account Manager              						2012 - 2016
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
+	
+Tata Steel										IJmuiden, NL
+•	Responsible for managing supply and price negotiation of 100 kilotonnes of automotive steel to German and Central Europe automotive customers 
+•	Managed multi-discipline Account Team across a matrix organisation prioritising customer satisfaction by promoting a right-first-time approach with team initiative encouraged to drive continuous improvement
 
 ## Config
 
