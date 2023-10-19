@@ -23,7 +23,7 @@ IJmuiden, NL
     - Database SQLite / mySQL
     - Functional languages Racket / ML
 - Developed stock price tracker website connected to live API offering features to buy / sell shares, report 'Stock Trade Hisotry', add funds to account supported by username/password log-in functionality.  Developed experience in Python / Boostrap front end development and Backend database management using SQLite 
-- Continuing second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
+- Continuing second year of studying Computer Science Curriculum alongside full time employment to develop knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
   
   
 ## EDUCATION (COMPUTER SCIENCE)
