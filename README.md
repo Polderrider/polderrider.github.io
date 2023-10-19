@@ -9,14 +9,14 @@ layout: page
 Software Engineer with 1 year experience in developing programs for desktop, web and command line deployment.  Strong foundation in functional programming languages (Bracket, ML) and Object Oriented Programming languages (Python, C#) has shaped expertise in the fundamentals of programming and skill in writing clear and understandable code.  Equally comfortable as a self-starter or team member, my strong personal skills engage and motivate colleagues ensuring I performan well in Agile Teams working to sprint schedules or delivering solo projects to deadline.  
 Mention Github repo with link...
   
-    
+  
 ## PROFESSIONAL EXPERIENCE
 ***
 ### Junior Software Engineer
 2022 – present  
 Tata Steel  
 IJmuiden, NL
-
+  
 - Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Supported developers with designing and implementing program solutions to control coil movements within the Warehouse Management System.
 - Programming languages experience
     - C languages C / C++ / C#
@@ -25,8 +25,8 @@ IJmuiden, NL
     - Functional languages Racket / ML
 - Developed stock price tracker website connected to live API offering features to buy / sell shares, report 'Stock Trade Hisotry', add funds to account supported by username/password log-in functionality.  Developed experience in Python / Boostrap front end development and Backend database management using SQLite 
 - Continuing second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
-
-
+  
+  
 ## EDUCATION (COMPUTER SCIENCE)
 ---
 + [cs50x](https://cs50.harvard.edu/x/2023/) course / [cs50-Python](https://cs50.harvard.edu/python/2022/) course								Oct 22 - ongoing
