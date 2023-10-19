@@ -30,8 +30,8 @@ IJmuiden, NL
 ---
 + [cs50x](https://cs50.harvard.edu/x/2023/) course / [cs50-Python](https://cs50.harvard.edu/python/2022/) course								Oct 22 - ongoing
 Harvard University										Remote
-+ Computer Science Curriculum						            Oct 22 - ongoing
-OSSU (Open Source Society University)							Remote
++ [OSSU](https://github.com/ossu/computer-science) Computer Science Curriculum						            Oct 22 - ongoing
+  Open Source Society University							Remote
 
 
 ## OTHER PROFESSIONAL EXPERIENCE
