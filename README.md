@@ -12,8 +12,8 @@ Software Engineer with 1 year experience in developing programs for desktop, web
 ______________________________________________________________________________________________________________________________________________________________
 
 ### Junior Software Engineer
-2022 – present
-Tata Steel
+2022 – present  
+Tata Steel  
 IJmuiden, NL
 
 + Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Supported developers with designing and implementing program solutions to control coil movements within the Warehouse Management System.
