@@ -5,11 +5,12 @@ layout: page
 ---
 
 ## SUMMARY
-
+______________________________________________________________________________________________________________________________________________________________
 Software Engineer with 1 year experience in developing programs for desktop, web and command line deployment.  Working with functional programming (languages: Bracket, ML) and Object Oriented Programming (languages: Python, C#) frameworks has taught an appreciation and understanding for writing clear and readable code.  Equally comfortable as a self-starter or team member, my personal skills to engage and motivate colleagues delvers strong performances in agile teams under pressured sprint schedules and delivering solo projects to deadline.
 
 ## PROFESSIONAL EXPERIENCE
 
+______________________________________________________________________________________________________________________________________________________________
 # Junior Software Engineer																	 2022 – present
 Tata Steel										IJmuiden, NL
 Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Worked with developers to design and implement program solutions to control coil movements within the Warehouse Management System.
@@ -24,7 +25,6 @@ Tata Steel										IJmuiden, NL
 •	Briefed senior Sales and Marketing Leadership in monthly Global Auto Market meetings discussing customer and market developments, forecasting EU vehicle production and future steel sales
 •	Improved Global Account Manager’s share-of-wallet knowledge and Annual Plan steel sales forecasting by automating steel demand dataset (in Powerpivot) to include individual car models’ steel demand per steel product
 •	Managed two reporting lines (Director of Strategy, Head of Marketing) to produce market sizing, customer insight and competitor market share growth reports on an ad-hoc basis (e.g. Hot Dipped Galv Full Finish market report)
-
 
 ## Automotive Account Manager              						2012 - 2016
 Tata Steel										IJmuiden, NL
@@ -51,6 +51,7 @@ Freelance			 							Bandung, IND
 Japanese Ministry of Education							Kyushu, JPN
 •	Appointed by Ministry of Education to design and teach English lessons at a Japanese High School
 
+
 ## EDUCATION
 ______________________________________________________________________________________________________________________________________________________________
 
@@ -68,7 +69,7 @@ Cowes High School, Isle of Wight, UK
 Ryde School, Isle of Wight, UK
 
 
-## Languages
+## LANGUAGES
 ______________________________________________________________________________________________________________________________________________________________
 
 •	Dutch intermediate (currently studying B1 -> B2) 						
@@ -87,6 +88,4 @@ ________________________________________________________________________________
 
 ![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
 
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
