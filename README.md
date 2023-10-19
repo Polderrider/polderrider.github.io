@@ -1,17 +1,16 @@
 ---
-title: "DANIEL GRIFFITHS"
+title: "Resume"
 permalink: "/CV/"
 layout: page
 ---
 
 # SUMMARY
----
-
-Software Engineer with 1 year experience in developing programs for desktop, web and command line deployment.  Working with functional programming (languages: Bracket, ML) and Object Oriented Programming (languages: Python, C#) frameworks has taught an appreciation and understanding for writing clear and readable code.  Equally comfortable as a self-starter or team member, my personal skills to engage and motivate colleagues delvers strong performances in agile teams under pressured sprint schedules and delivering solo projects to deadline.
-
+---  
+Software Engineer with 1 year experience in developing programs for desktop, web and command line deployment.  Working with functional programming (languages: Bracket, ML) and Object Oriented Programming (languages: Python, C#) frameworks has taught an appreciation and understanding for writing clear and readable code.  Equally comfortable as a self-starter or team member, my personal skills to engage and motivate colleagues delvers strong performances in agile teams under pressured sprint schedules and delivering solo projects to deadline.  
+  
+    
 # PROFESSIONAL EXPERIENCE
 ***
-
 ### Junior Software Engineer
 2022 – present  
 Tata Steel  
@@ -24,10 +23,9 @@ IJmuiden, NL
 
 
 ### Automotive Insight Manager							
-2016 - 2022
-Tata Steel
+2016 - 2022  
+Tata Steel  
 IJmuiden, NL  
-
 + Guided TSE investment decisions as team member providing research and insights about steel demand, customers and 10 year market outlooks  for projects such as E-motor steel production, EV battery steel and Low Carbon Steel price mechanism
 + Briefed senior Sales and Marketing Leadership in monthly Global Auto Market meetings discussing customer and market developments, forecasting EU vehicle production and future steel sales
 + Improved Global Account Manager’s share-of-wallet knowledge and Annual Plan steel sales forecasting by automating steel demand dataset (in Powerpivot) to include individual car models’ steel demand per steel product
@@ -35,10 +33,9 @@ IJmuiden, NL
 
 
 ### Automotive Account Manager              						
-2012 - 2016
-Tata Steel										
+2012 - 2016  
+Tata Steel  
 IJmuiden, NL
-
 + Responsible for managing supply and price negotiation of 100 kilotonnes of automotive steel to German and Central Europe automotive customers 
 + Managed multi-discipline Account Team across a matrix organisation prioritising customer satisfaction by promoting a right-first-time approach with team initiative encouraged to drive continuous improvement
 
