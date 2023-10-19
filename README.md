@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "RESUME"
 permalink: "/CV/"
 layout: page
 ---
@@ -19,16 +19,16 @@ IJmuiden, NL
 
 + Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Supported developers with designing and implementing program solutions to control coil movements within the Warehouse Management System.
 - Programming languages
-        - C languages [C / C++ / C#]
+        - C languages C / C++ / C#
         - Python / Bootstrap / Flask
-        - Database [SQLite / mySQL]
-        - Functional languages [Racket / ML]
+        - Database SQLite / mySQL
+        - Functional languages Racket / ML
 - Developed web based API CRUD app offering username / password access to stock price tracker
 - In second year of studying Computer Science Curriculum alongside full time employment to build on knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 
 ## COMPUTER SCIENCE EDUCATION
 ---
-+ cs50x course / cs50-Python course								Oct 22 - ongoing
++ [cs50x](https://cs50.harvard.edu/x/2023/) course / [cs50-Python](https://cs50.harvard.edu/python/2022/) course								Oct 22 - ongoing
 Harvard University										Remote
 + Computer Science Curriculum						            Oct 22 - ongoing
 OSSU (Open Source Society University)							Remote
