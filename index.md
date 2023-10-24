@@ -1,7 +1,7 @@
 ---
+title: "About me"
 permalink: "/aboutme/"
 layout: page
-title: "About me"
 ---
 
 Welcome!    
