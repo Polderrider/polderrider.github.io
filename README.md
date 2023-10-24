@@ -5,25 +5,24 @@ layout: page
 ---
 
 ---  
-Software Engineer with 1 year experience in developing programs for desktop, web and command line deployment.  Strong foundation in functional programming languages (Bracket, ML) and Object Oriented Programming languages (Python, C#) has shaped expertise in the fundamentals of programming and skill in writing clear and understandable code.  Equally comfortable as a self-starter or team member, my strong personal skills engage and motivate colleagues ensuring I performan well in Agile Teams working to sprint schedules or delivering solo projects to deadline.  
-Mention Github repo with link...
+Software Engineer with 1 year experience in developing programs for desktop, web-apps and command line deployment.  Strong foundation in programming languages C and Python, and functional programming languages Bracket, ML.  Gained knowledge of Object Oriented Programming language C# during Tata Steel DSP work experience.  Studying Computer Science has built a solid understanding of programming fundamentals and shaped skill for writing understandable code. Equally comfortable as a self-starter, team leader or Agile team member, I maximise impact in my work by managing stakeholder expectations and careful time management.
   
   
 ## PROFESSIONAL EXPERIENCE
 ***
 ### Junior Software Engineer
-2022 – present  
-Tata Steel  
-IJmuiden, NL
+Tata Steel, IJmuiden, NL
+2022 – present
   
-- Experience in C# .NET environment gained in placement with IT Engineering team at the TSE Direct Sheet Plant.  Supported developers with designing and implementing program solutions to control coil movements within the Warehouse Management System.
+- Gained experience in C# .NET programming during placement in IT Engineering team at the TSE Direct Sheet Plant.  Supported developers with designing and implementing program solutions in response to end users needs, which maintained the control of coil movements in the Warehouse Management System.
 - Programming languages experience
     - C languages C / C++ / C#
     - Python / Bootstrap / Flask
     - Database SQLite / mySQL
     - Functional languages Racket / ML
-- Developed stock price tracker web app \([source code]\)(https://github.com/code50/51285379/tree/main/finance) connected to live API offering features to buy / sell shares, report 'Stock Trade History', add funds to account. App supported by username/password log-in functionality.  Developed front end in Python / Boostrap and backend using database management tool SQLite. 
+- Developed stock price tracker web app \([source code]\)(https://github.com/code50/51285379/tree/main/finance) with API connection that offered features to quote current share price, buy / sell shares, report 'Stock Trade History' and add funds to account. App supported by username/password log-in functionality.  Developed front end in Python / Boostrap and backend using SQLite. 
 - Continuing second year of studying Computer Science Curriculum alongside full time employment to develop knowledge of advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
+- Github repository [link](https://github.com/code50/51285379)
   
   
 ## EDUCATION (COMPUTER SCIENCE)
@@ -34,9 +33,8 @@ IJmuiden, NL
   Open Source Society University							Remote  
 + [Python for Everybody](https://www.py4e.com/)                                                       January 2023 - Feburary 2023  
 + [cs50x](https://cs50.harvard.edu/x/2023/) course                                                    October 2022 - March 2023  
-  Harvard University										Remote  
+  Harvard University										                                                              Remote  
                                                                                         
-
 
 ## OTHER PROFESSIONAL EXPERIENCE
 ***
@@ -54,60 +52,55 @@ IJmuiden, NL
 
 
 ### Automotive Account Manager              						
-
-##### Tata Steel  
-
+##### Tata Steel
 2012 - 2016  
 IJmuiden, NL
+  
 + Responsible for managing supply and price negotiation of 100 kilotonnes of automotive steel to German and Central Europe automotive customers 
 + Managed multi-discipline Account Team across a matrix organisation prioritising customer satisfaction by promoting a right-first-time approach with team initiative encouraged to drive continuous improvement
 
 
 ### Commercial Accountant								
+##### Tata Steel
 2010 – 2012
-Tata Steel
 Cardiff, UK
-
+  
 + Reported to Financial Controller on automotive customers financial performance  
 + Researched and created KPI reports for briefing senior finance and automotive account managers
-
-
+    
+  
 ### Business Analyst									
-2007 – 2009
-Tata Steel										
+##### Tata Steel
+2007 – 2009							
 Cardiff, UK
 
 
 ### Masters IELTs Tutor								
+#### University of Southampton							
 2006 – 2007
-University of Southampton							
 Southampton, UK
-
+  
 + Responsible for designing and teaching lessons to international students with the aim of preparing  students language ability to meet the demands of Masters degree study
-
-
+  
+  
 ### English Tutor									
+#### Freelance			 							
 2004 – 2005
-Freelance			 							
 Bandung, IND
-
+  
 + Negotiated teaching contracts with public organisations (Universities, government departments) to design and teach English language seminars and syllabuses
 
 
 ### English Tutor									
+#### Japanese Ministry of Education							
 2001 – 2004
-Japanese Ministry of Education							
 Kyushu, JPN
-
+  
 + Appointed by Ministry of Education to design and teach English lessons at a Japanese High School
 
 
 ## EDUCATION
 ---
-+ cs50x course / cs50-Python course								Oct 22 - ongoing
-Harvard University										Remote
-+ Computer Science Curriculum						            Oct 22 - ongoing
-OSSU (Open Source Society University)							Remote
 + MSc Accounting and Management (Post Graduate Diploma)				2006 – 2007
 University of Southampton							Southampton, UK
 + BSc Management Science								1997 – 2001
@@ -129,10 +122,7 @@ Ryde School, Isle of Wight, UK
 + Trainer for under-15 football team and referee
 + Playing and teaching my sons guitar 
 + Sport (running, cycling, swimming) 
-
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-
+  
+  
+  
+  
