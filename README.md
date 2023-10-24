@@ -39,8 +39,8 @@ Tata Steel, IJmuiden, NL
 ## OTHER PROFESSIONAL EXPERIENCE
 ***
 
-### Automotive Insight Manager			
-##### Tata Steel  
+### Automotive Insight Manager
+#### Tata Steel
 
 2016 - 2022   
 IJmuiden, NL  
