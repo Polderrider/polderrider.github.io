@@ -5,7 +5,8 @@ layout: page
 ---
 
 ---  
-Software Engineer with 1 year experience in developing programs for desktop, web-apps and command line deployment.  Strong foundation in programming languages C and Python, and functional programming languages Bracket, ML.  Gained knowledge of Object Oriented Programming language C# during IT experience at Tata Steel Direct Sheet Plant.  Studying Computer Science has built a solid understanding of programming fundamentals and shaped skills for writing understandable code. Equally comfortable as a self-starter, team leader or Agile team member, I maximise impact in my work by managing stakeholder expectations and careful time management.
+Software Engineer with 1 year experience in developing programs for desktop, web-apps and command line deployment.  Strong foundation in programming languages C and Python, and functional programming languages Bracket, ML.  Gained knowledge of Object Oriented Programming language C# during IT experience at Tata Steel Direct Sheet Plant.  Studying Computer Science has built a solid understanding of programming fundamentals and shaped skills for writing understandable code. Equally comfortable as a self-starter, team leader or Agile team member, I maximise impact in my work by managing stakeholder expectations and careful time management.    
+  
   
   
 ## SOFTWARE ENGINEER EXPERIENCE
@@ -25,6 +26,8 @@ Tata Steel, IJmuiden, NL
 - Github repository [link](https://github.com/code50/51285379)
   
   
+
+  
 ## EDUCATION (COMPUTER SCIENCE)
 ---
 + [cs50-Python](https://cs50.harvard.edu/python/2022/) course							                          	September 2023 - ongoing  
@@ -36,6 +39,7 @@ Tata Steel, IJmuiden, NL
   Harvard University										                                                              Remote  
                                                                                         
 
+   
 ## OTHER PROFESSIONAL EXPERIENCE
 ***
 
@@ -50,8 +54,9 @@ IJmuiden, NL
 + Managed two reporting lines (Director of Strategy, Head of Marketing) to produce market sizing, customer insight and competitor market share growth reports on an ad-hoc basis (e.g. Hot Dipped Galv Full Finish market report)
   
   
+  
 ### Automotive Account Manager              						
-##### Tata Steel
+#### Tata Steel
 2012 - 2016  
 IJmuiden, NL
   
@@ -60,7 +65,7 @@ IJmuiden, NL
   
   
 ### Commercial Accountant								
-##### Tata Steel
+#### Tata Steel
 2010 – 2012
 Cardiff, UK
   
@@ -69,7 +74,7 @@ Cardiff, UK
     
   
 ### Business Analyst									
-##### Tata Steel
+#### Tata Steel
 2007 – 2009							
 Cardiff, UK
   
@@ -95,7 +100,7 @@ Bandung, IND
 2001 – 2004
 Kyushu, JPN
   
-+ Appointed by Ministry of Education to design and teach English lessons at a Japanese High School
++ Appointed by Ministry of Education to design and teach English lessons at a Japanese High School    
   
   
 ## EDUCATION
