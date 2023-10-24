@@ -2,15 +2,13 @@
 title: "RESUME"
 permalink: "/CV/"
 layout: page
----
 
----  
+     
 Software Engineer with 1 year experience in developing programs for desktop, web-apps and command line deployment.  Strong foundation in programming languages C and Python, and functional programming languages Bracket, ML.  Gained knowledge of Object Oriented Programming language C# during IT experience at Tata Steel Direct Sheet Plant.  Studying Computer Science has built a solid understanding of programming fundamentals and shaped skills for writing understandable code. Equally comfortable as a self-starter, team leader or Agile team member, I maximise impact in my work by managing stakeholder expectations and careful time management.    
-  
+***     
   
   
 ## SOFTWARE ENGINEER EXPERIENCE
-***
 ### Junior Software Engineer
 Tata Steel, IJmuiden, NL
 2022 – present
@@ -24,12 +22,12 @@ Tata Steel, IJmuiden, NL
 - Developed stock price web app using Python / Flask for frontend and SQLite for backend [link](https://github.com/code50/51285379/tree/main/finance). Using an API, the app offers the user access to current share price search, buying / selling shares, and a 'Stock Trade History'. 
 - Continuing second year of studying Computer Science alongside full time employment to develop knowledge in advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 - Github repository [link](https://github.com/code50/51285379)
-  
+***  
   
 
   
 ## EDUCATION (COMPUTER SCIENCE)
----
+
 + [cs50-Python](https://cs50.harvard.edu/python/2022/) course							                          	September 2023 - ongoing  
   Harvard University										Remote  
 + [OSSU](https://github.com/ossu/computer-science) Computer Science Curriculum						            January 2023 - ongoing  
