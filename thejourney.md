@@ -1,6 +1,6 @@
 ---
-title: "The journey so far..."
-permalink: "/journey/"
+title: "Study"
+permalink: "/study/"
 layout: page
 ---
 
