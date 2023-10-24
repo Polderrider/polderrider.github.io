@@ -4,9 +4,11 @@ permalink: "/journey/"
 layout: page
 ---
 
-When i embarked on the mission to begin educating myself as a software engineer, i started largely with prgramming knoeledge that began (and ended!) with 'if statements' built on an inifinite amount of googling techniqes voer the years.  In hindsight that actually offered some preparation for entering the programming domain, but really only a very little.
+When i embarked on the mission to begin educating myself as a software engineer late in 2022, i started with "programming" knowledge that amounted to little more than knowledge of excel 'if statements' taught by the "University of Googling" over the years.  In hindsight, it offered some preparation for entering the programming domain, but as you'd imagine its value was exhausted very (very) quickly.
 
-FOrtunately, with some online searching you can quickly uncover a staggeing amount of free self-study content on the internet. 
+While deciding where to begin the self-study journey, i was torn between either paying for study or putting my trust in free content - like many who've trodden this path before me, I imagine. I put off the decision for as long as i could, and in the end opted for free content.  It seemed a huge risk at the time.  committing unknown amounts of my (bounded) time to courses that i had no idea would deliver.  Fortunately, the open source coumminity of th eprogramming world had us self-starters covered.  And so it came to pass, that i entrusted my intial Computer Science Education to Harvard University's CS department, or more precisely David Malan and his excellent team.
+
+What follows is a synopsis of the Computer Sciences studied thus far.  The goal is to dip into more detail with individual blog posts about each course
 
 
 
