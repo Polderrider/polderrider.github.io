@@ -3,7 +3,8 @@ title: "RESUME"
 permalink: "/CV/"
 layout: page
 ---
-     
+
+---
 Software Engineer with 1 year experience in developing programs for desktop, web-apps and command line deployment.  Strong foundation in programming languages C and Python, and functional programming languages Bracket, ML.  Gained knowledge of Object Oriented Programming language C# during IT experience at Tata Steel Direct Sheet Plant.  Studying Computer Science has built a solid understanding of programming fundamentals and shaped skills for writing understandable code. Equally comfortable as a self-starter, team leader or Agile team member, I maximise impact in my work by managing stakeholder expectations and careful time management.     
   
   
