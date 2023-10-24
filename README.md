@@ -22,7 +22,7 @@ Tata Steel, IJmuiden, NL
 - Developed stock price web app using Python / Flask for frontend and SQLite for backend [link](https://github.com/code50/51285379/tree/main/finance). Using an API, the app offers the user access to current share price search, buying / selling shares, and a 'Stock Trade History'. 
 - Continuing second year of studying Computer Science alongside full time employment to develop knowledge in advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 - Github repository [link](https://github.com/code50/51285379)
----    
+ 
   
 
   
@@ -35,12 +35,11 @@ Tata Steel, IJmuiden, NL
 + [Python for Everybody](https://www.py4e.com/)                                                       January 2023 - Feburary 2023  
 + [cs50x](https://cs50.harvard.edu/x/2023/) course                                                    October 2022 - March 2023  
   Harvard University										                                                              Remote
----  
+
                                                                                         
 
    
 ## OTHER PROFESSIONAL EXPERIENCE
-***
 
 ### Automotive Insight Manager
 #### Tata Steel
