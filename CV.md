@@ -19,7 +19,7 @@ Tata Steel, IJmuiden, NL
     - Python / Bootstrap / Flask
     - Database SQLite / mySQL
     - Functional languages Racket / ML
-- Developed stock price web app using Python / Flask for frontend and SQLite for backend [link](https://github.com/code50/51285379/tree/main/finance). Using an API, the app offers the user access to current share price search, buying / selling shares, and a 'Stock Trade History'. 
+- Developed stock price web app using Python / Flask for frontend and SQLite for backend [link](https://github.com/code50/51285379/tree/main/finance){:target="_blank"}. Using an API, the app offers the user access to current share price search, buying / selling shares, and a 'Stock Trade History'. 
 - Continuing second year of studying Computer Science alongside full time employment to develop knowledge in advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
 - Github repository [link](https://github.com/code50/51285379)
  
