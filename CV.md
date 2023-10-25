@@ -21,19 +21,19 @@ Tata Steel, IJmuiden, NL
     - Functional languages Racket / ML
 - Developed stock price web app using Python / Flask for frontend and SQLite for backend [link](https://github.com/code50/51285379/tree/main/finance){:target="_blank"}. Using an API, the app offers the user access to current share price search, buying / selling shares, and a 'Stock Trade History'. 
 - Continuing second year of studying Computer Science alongside full time employment to develop knowledge in advanced CS topics (Data Structures & Algorithms, System Architecture and Design)
-- Github repository [link](https://github.com/code50/51285379)
+- Github repository [link](https://github.com/code50/51285379){:target="_blank"}
  
   
 
   
 ## EDUCATION (COMPUTER SCIENCE)
 
-+ [cs50-Python](https://cs50.harvard.edu/python/2022/) course							                          	September 2023 - ongoing  
++ [cs50-Python](https://cs50.harvard.edu/python/2022/){:target="_blank"} course							                          	September 2023 - ongoing  
   Harvard University										Remote  
-+ [OSSU](https://github.com/ossu/computer-science) Computer Science Curriculum						            January 2023 - ongoing  
++ [OSSU](https://github.com/ossu/computer-science){:target="_blank"} Computer Science Curriculum						            January 2023 - ongoing  
   Open Source Society University							Remote  
-+ [Python for Everybody](https://www.py4e.com/)                                                       January 2023 - February 2023  
-+ [cs50x](https://cs50.harvard.edu/x/2023/) course                                                    October 2022 - March 2023  
++ [Python for Everybody](https://www.py4e.com/){:target="_blank"}                                                       January 2023 - February 2023  
++ [cs50x](https://cs50.harvard.edu/x/2023/){:target="_blank"} course                                                    October 2022 - March 2023  
   Harvard University										                                                              Remote
 
                                                                                         
