@@ -29,10 +29,11 @@ Tata Steel, IJmuiden, NL
 ## EDUCATION (COMPUTER SCIENCE)
 
 + [cs50-Python](https://cs50.harvard.edu/python/2022/){:target="_blank"} course							                          	September 2023 - ongoing  
-  Harvard University										Remote  
+  Harvard University										Remote
++ [C# Sharp Programming](https://studycoding.org/p/beginning-c-sharp-programming){:target="_blank"}, April 2023 – May 2023
 + [OSSU](https://github.com/ossu/computer-science){:target="_blank"} Computer Science Curriculum						            January 2023 - ongoing  
   Open Source Society University							Remote  
-+ [Python for Everybody](https://www.py4e.com/){:target="_blank"}                                                       January 2023 - February 2023  
++ [Python for Everybody](https://www.py4e.com/){:target="_blank"}                                                       January 2023 - February 2023
 + [cs50x](https://cs50.harvard.edu/x/2023/){:target="_blank"} course                                                    October 2022 - March 2023  
   Harvard University										                                                              Remote
 
