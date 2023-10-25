@@ -9,8 +9,8 @@ Software Engineer with 1 year experience in developing programs for desktop, web
   
   
 ## SOFTWARE ENGINEER EXPERIENCE
-### Junior Software Engineer
-Tata Steel, IJmuiden, NL
+### Junior Software Engineer, Tata Steel
+IJmuiden, NL
 2022 – present
   
 - Gained experience in C# .NET programming during a placement in the IT Engineering team at the TSE Direct Sheet Plant.  Liaising with end users, I supported developers in maintaining programs responsible for coil movements in the Warehouse Management System.
@@ -42,8 +42,7 @@ Tata Steel, IJmuiden, NL
    
 ## OTHER PROFESSIONAL EXPERIENCE
 
-### Automotive Insight Manager
-#### Tata Steel
+### Automotive Insight Manager, Tata Steel
 
 2016 - 2022   
 IJmuiden, NL  
@@ -54,8 +53,7 @@ IJmuiden, NL
   
   
   
-### Automotive Account Manager              						
-#### Tata Steel
+### Automotive Account Manager, Tata Steel
 2012 - 2016  
 IJmuiden, NL
   
@@ -63,8 +61,7 @@ IJmuiden, NL
 + Managed multi-discipline Account Team across a matrix organisation prioritising customer satisfaction by promoting a right-first-time approach with team initiative encouraged to drive continuous improvement
   
   
-### Commercial Accountant								
-#### Tata Steel
+### Commercial Accountant, Tata Steel
 2010 – 2012
 Cardiff, UK
   
@@ -72,30 +69,26 @@ Cardiff, UK
 + Researched and created KPI reports for briefing senior finance and automotive account managers
     
   
-### Business Analyst									
-#### Tata Steel
+### Business Analyst, Tata Steel
 2007 – 2009							
 Cardiff, UK
   
   
-### Masters IELTs Tutor								
-#### University of Southampton							
+### Masters IELTs Tutor, University of Southampton							
 2006 – 2007
 Southampton, UK
   
 + Responsible for designing and teaching lessons to international students with the aim of preparing  students language ability to meet the demands of Masters degree study
   
   
-### English Tutor									
-#### Freelance			 							
+### English Tutor, Freelance			 							
 2004 – 2005
 Bandung, IND
   
 + Negotiated teaching contracts with public organisations (Universities, government departments) to design and teach English language seminars and syllabuses
   
   
-### English Tutor									
-#### Japanese Ministry of Education							
+### English Tutor, Japanese Ministry of Education							
 2001 – 2004
 Kyushu, JPN
   
