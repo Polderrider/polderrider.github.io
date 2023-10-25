@@ -104,7 +104,7 @@ Kyushu, JPN
 ## EDUCATION
 ---
 + MSc Accounting and Management (Post Graduate Diploma)				2006 – 2007
-University of Southampton							Southampton, UK
+University of Southampton,							UK
 + BSc Management Science								1997 – 2001
 University of Wales, Swansea, UK
 + A-level (Maths, Physics, Chemistry)							1995 – 1997
