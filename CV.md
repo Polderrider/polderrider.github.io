@@ -9,6 +9,7 @@ Software Engineer with 1 year experience in developing programs for desktop, web
   
   
 ## SOFTWARE ENGINEER EXPERIENCE
+---   
 ### Junior Software Engineer, Tata Steel
 IJmuiden, NL
 2022 – present
@@ -27,7 +28,7 @@ IJmuiden, NL
 
   
 ## EDUCATION (COMPUTER SCIENCE)
-
+---  
 + [cs50-Python](https://cs50.harvard.edu/python/2022/){:target="_blank"} course							                          	September 2023 - ongoing  
   Harvard University										Remote
 + [C# Sharp Programming](https://studycoding.org/p/beginning-c-sharp-programming){:target="_blank"}, April 2023 – May 2023
@@ -41,7 +42,7 @@ IJmuiden, NL
 
    
 ## OTHER PROFESSIONAL EXPERIENCE
-
+---  
 ### Automotive Insight Manager, Tata Steel
 
 2016 - 2022   
