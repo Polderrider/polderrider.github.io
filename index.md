@@ -14,4 +14,4 @@ Find out more about the route I have chosen to achieve my goal by clicking on th
 Further information about programming projects is available by following the 'Projects' link. I plan to evetually publish blog posts that will share my thoughts on the programming experiences I've undertaken.  
   
   
-You can download a copy of my CV / Resume [here](https://polderrider.github.io/CV/).
+You can download a copy of my CV / Resume [here](/CV_Daniel Griffiths.pdf)
