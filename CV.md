@@ -32,7 +32,7 @@ Tata Steel, IJmuiden, NL
   Harvard University										Remote  
 + [OSSU](https://github.com/ossu/computer-science) Computer Science Curriculum						            January 2023 - ongoing  
   Open Source Society University							Remote  
-+ [Python for Everybody](https://www.py4e.com/)                                                       January 2023 - Feburary 2023  
++ [Python for Everybody](https://www.py4e.com/)                                                       January 2023 - February 2023  
 + [cs50x](https://cs50.harvard.edu/x/2023/) course                                                    October 2022 - March 2023  
   Harvard University										                                                              Remote
 
