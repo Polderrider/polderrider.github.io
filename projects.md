@@ -17,7 +17,7 @@ More details to follow by 15 November 2023
 
 Skills gained from 12 months of computer science and programming study
 
-#### Understanding of Programming Fundamentals:   
+**Understanding of Programming Fundamentals**   
 Solid grasp of core programming concepts, including data types, loops, conditionals, functions, and boolean logic.    
 
     
