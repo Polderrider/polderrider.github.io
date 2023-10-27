@@ -5,7 +5,11 @@ layout: page
 ---
 
 When I embarked on the mission to begin educating myself as a software engineer late in 2022, my programming "knowledge" amounted to little more than excel if statements taught by the "University of Googling".  In hindsight, it actually offered some preparation for entering the programming domain, but as you'd imagine its value was exhausted very (very) quickly.   
+
+
 While deciding where to begin the self-study journey, I was torn between either paying for a bootcamp or trusting free online content.  In the end, I opted for the zero-cost route.   
+
+
 I settled on Harvard University's Computer Science online course known as 'cs50x', as taught by David Malan and his excellent team.  What follows is a synopsis of 'cs50x' and the other Computer Science courses i have studied so far.  I intend to write individual blog posts to capture my opinions and learnings in each course, which will become available via the 'Blog' link in the navbar.
    
    
