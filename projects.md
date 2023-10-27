@@ -4,7 +4,7 @@ permalink: "/projects/"
 layout: page
 ---
 
-More details to follow by 15 Novemeber 2023
+More details to follow by 15 November 2023
 
 ### Stock Trader web-app
 
@@ -17,11 +17,12 @@ More details to follow by 15 Novemeber 2023
 
 Skills gained from 12 months of computer science and programming study
 
-Understanding of Programming Fundamentals:
+#### Understanding of Programming Fundamentals:   
 Solid grasp of core programming concepts, including data types, loops, conditionals, functions, and boolean logic.    
 
-Basic Knowledge of Multiple Languages:
-Proficiency in C, C#, C++, Python, and Flask. I am immensly satisfied to have grasped a basic understanding of these languages and consider it a significant achievement. I am able to write simple programs, understand code written in these languages, and switch between them.   
+    
+#### Basic Knowledge of Multiple Languages:   
+I have built beginner to intermediate proficiency in C, C#, C++, Python, and Flask. I am immensly satisfied to have grasped a basic understanding of these languages and consider it a significant achievement. I am able to write simple programs, understand code written in these languages, and switch between them.   
   
 Understanding of Data Structures:
 Knowledge of and able to use basic data structures like arrays and lists. I consider it a crucial skill to be able to manipulate and work with these data structures.  
