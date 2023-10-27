@@ -22,23 +22,23 @@ More details to follow by 15 November 2023
 Solid grasp of core programming concepts, including data types, loops, conditionals, functions, and boolean logic.    
 
     
-**Basic Knowledge of Multiple Languages**
+**Basic Knowledge of Multiple Languages**    
 I have built beginner to intermediate proficiency in C, C#, C++, Python, and Flask. I am immensly satisfied to have grasped a basic understanding of these languages and consider it a significant achievement. I am able to write simple programs, understand code written in these languages, and switch between them.   
 
   
-**Understanding of Data Structures**
+**Understanding of Data Structures**    
 Knowledge of and able to use basic data structures like arrays and lists. I consider it a crucial skill to be able to manipulate and work with these data structures.  
 
 
-**Basic Problem-Solving Skills**
+**Basic Problem-Solving Skills**    
 I can tackle simple to intermediate programming problems and implement solutions using the languages you've learned.
 
 
-**Debugging Skills**
+**Debugging Skills**     
 I have experience of using codepsace debuggers to debug code to identify and fix errors.
 
 
-**Version Control**
+**Version Control**     
 You should have a basic understanding of version control systems like Git and how to use them to manage your code.
 
 
