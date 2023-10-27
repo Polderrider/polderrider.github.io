@@ -20,7 +20,7 @@ Further information about my completed programming projects is available via the
 
 
 #### Blog
-Eventially, I plan to publish blog posts to give a full debrief about individual computer science courses.
+Eventually, I plan to publish blog posts to give a full debrief about individual computer science courses.
 
   
 
