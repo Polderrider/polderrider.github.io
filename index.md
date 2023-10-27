@@ -7,15 +7,15 @@ Read on for an overview of my study path towards becoming a Software Engineer.  
 <!-- or [file download]({{ site.url }}/assets/CV_Daniel Griffiths.pdf) -->
 
 
-#### Study
+**Study**
 Click on the 'Study' link in the navbar to learn more about the computer science courses I have studied so far.    
 
 
-#### Projects
+**Projects**
 Further information about my completed programming projects is available via the 'Projects' link. 
 
 
-#### Blog
+**Blog**
 Eventually, I plan to publish blog posts to give a full debrief about individual computer science courses.
 
   
