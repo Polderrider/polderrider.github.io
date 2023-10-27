@@ -42,39 +42,39 @@ I have experience of using codepsace debuggers to debug code to identify and fix
 You should have a basic understanding of version control systems like Git and how to use them to manage your code.
 
 
-**Experience with Web Development (Flask)**
+**Experience with Web Development (Flask)**   
 If you've been working with Flask, you may have created simple web applications or web APIs, which is a great achievement.
 
 
-**Basic Algorithm Understanding**
+**Basic Algorithm Understanding**   
 You should have an introduction to algorithms and their importance in programming. Understanding basic sorting and searching algorithms is a good start.
 
 
-**Introduction to Object-Oriented Programming (OOP)**
+**Introduction to Object-Oriented Programming (OOP)**   
 Familiarity with the principles of OOP is valuable, especially if you've been using languages like C#, C++, and Python, which support OOP.
 
 
-**Git and Code Collaboration**
+**Git and Code Collaboration**   
 Being able to collaborate on code using Git and platforms like GitHub or GitLab is important in a real-world development environment.
 
 
-**Reading and Understanding Code Documentation**
+**Reading and Understanding Code Documentation**   
 You should be comfortable reading and understanding code documentation and libraries in the languages you've studied.
 
 
-**Basic Knowledge of Databases**
+**Basic Knowledge of Databases**   
 If you've been working with Flask, you might have some exposure to databases. Understanding the basics of database design and SQL is beneficial.
 
 
-**Understanding of Software Development Process**
+**Understanding of Software Development Process**   
 You should have a general understanding of the software development lifecycle, including requirements gathering, design, implementation, testing, and maintenance.
 
 
-**Problem Solving and Algorithm Practice**
+**Problem Solving and Algorithm Practice**   
 Regularly practicing coding problems on platforms like LeetCode, Codeforces, or HackerRank can help you sharpen your problem-solving skills.
 
 
-**Understanding of Code Efficiency**
+**Understanding of Code Efficiency**   
 An awareness of writing efficient code and optimizing algorithms for performance is valuable.
 
 
