@@ -23,7 +23,7 @@ Solid grasp of core programming concepts, including data types, loops, condition
 
     
 **Basic Knowledge of Multiple Languages**    
-I have built beginner to intermediate proficiency in C, C#, C++, Python, and Flask. I am immensly satisfied to have grasped a basic understanding of these languages and consider it a significant achievement. I am able to write simple programs, understand code written in these languages, and switch between them.   
+I have built beginner to intermediate proficiency in C, C#, C++, Python, and Flask. I am able to write simple programs, understand code written in these languages, and switch between them.   
 
   
 **Understanding of Data Structures**    
