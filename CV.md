@@ -3,7 +3,7 @@ title: "RESUME"
 permalink: "/CV/"
 layout: page
 ---
-
+[CV doanload](/CV_Daniel Griffiths.pdf){:target="_blank"} 
 ---
 Software Engineer with 1 year experience in developing programs for desktop, web-apps and command line deployment.  Strong foundation in programming languages C and Python, and functional programming languages Bracket, ML.  Studying Computer Science has built a solid understanding of programming core concepts and taught skill for writing clear and understandable code. Gained knowledge of Object Oriented Programming during IT experience (C#/.Net) with a team of developers at the Direct Sheet Plant.  Equally comfortable as a self-starter, leader or Agile team member, I maximise my impact through timely engagement with stakeholders to review expectations and careful time management.     
   
