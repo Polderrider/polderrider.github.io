@@ -3,7 +3,8 @@ title: "Welcome to the website"
 layout: page
 ---
 
-Read on for an overview of my study path towards becoming a Software Engineer.  You can download a pdf copy of my CV / Resume [here](/CV_Daniel Griffiths.pdf){:target="_blank"} 
+Read on for an overview of my study path towards becoming a Software Engineer.    
+You can download a pdf copy of my CV / Resume [here](/CV_Daniel Griffiths.pdf){:target="_blank"} 
 <!-- or [file download]({{ site.url }}/assets/CV_Daniel Griffiths.pdf) -->
 
 
